@@ -1,0 +1,5 @@
+flwr>=1.23.0
+numpy>=2.3.4
+pandas>=2.3.3
+rich>=14.2.0
+scikit_learn>=1.7.2
